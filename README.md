@@ -15,7 +15,6 @@ This project visualizes the stock prices of IBM using an HTML5 canvas and JavaSc
 ### Prerequisites
 
 - A web browser (latest version recommended)
-- A local web server (optional for local testing)
 
 ## Usage
 
