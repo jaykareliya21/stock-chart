@@ -36,10 +36,9 @@ This project visualizes the stock prices of IBM using an HTML5 canvas and JavaSc
 ```
 - python3 -m http.server
 
-Alternatively, you can use any other local server of your choice.
+- Alternatively, you can use any other local server of your choice.
 
-Open in Browser: Once the server is running, open your web browser and navigate to the following URL:
-
+- Open in Browser: Once the server is running, open your web browser and navigate to the following URL:
 
 http://localhost:8000
 
