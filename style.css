@@ -1,0 +1,17 @@
+.chart-container {
+    position: relative;
+    width: 800px;
+    height: 600px;
+}
+#stockChart {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+#overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
