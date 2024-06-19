@@ -29,12 +29,13 @@ This project visualizes the stock prices of IBM using an HTML5 canvas and JavaSc
 - `script.js`: The JavaScript file containing the logic for fetching data, processing it, and plotting the chart.
 - `data.csv`: The CSV file containing stock data. Ensure it is formatted correctly.
 
-- Serve Files: You need to serve the HTML, CSS, and JavaScript files using a local server to avoid CORS issues.
+Serve Files: You need to serve the HTML, CSS, and JavaScript files using a local server to avoid CORS issues.
 
 - If you have Python installed, you can use Python's built-in HTTP server. Run the following command in the project directory:
 
 ```
-- python3 -m http.server
+python3 -m http.server
+```
 
 - Alternatively, you can use any other local server of your choice.
 
